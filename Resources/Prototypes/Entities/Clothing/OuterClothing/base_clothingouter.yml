@@ -77,7 +77,6 @@
     - Hardsuit
     - WhitelistChameleon
 
-
 - type: entity
   abstract: true
   parent: ClothingOuterBase
