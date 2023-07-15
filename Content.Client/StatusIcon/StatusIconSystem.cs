@@ -68,4 +68,3 @@ public sealed class StatusIconSystem : SharedStatusIconSystem
         return ev.StatusIcons;
     }
 }
-
