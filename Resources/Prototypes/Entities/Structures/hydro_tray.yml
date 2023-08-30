@@ -89,3 +89,6 @@
     sound:
       path: /Audio/Ambience/Objects/flowing_water_open.ogg
   - type: Climbable
+  - type: GuideHelp
+    guides:
+    - Botany

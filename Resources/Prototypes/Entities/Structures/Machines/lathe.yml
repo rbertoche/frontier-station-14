@@ -106,6 +106,10 @@
       - LightTube
       - LightBulb
       - Bucket
+      - FoodPlate
+      - FoodPlateSmall
+      - FoodPlatePlastic
+      - FoodPlateSmallPlastic
       - SprayBottle
       - PowerCellSmall
       - MicroManipulatorStockPart
@@ -239,9 +243,6 @@
       - PowerCellMedium
       - PowerCellHigh
       - WeaponPistolCHIMP
-      - CartridgeAnomalousParticleDelta
-      - CartridgeAnomalousParticleEpsilon
-      - CartridgeAnomalousParticleZeta
       - SynthesizerInstrument
       - RPED
       - ClothingShoesBootsMag
@@ -399,6 +400,7 @@
     - BorgModuleRadiationDetection
     - BorgModuleTool
     - BorgModuleAppraisal
+    - BorgModuleConstruction
     - CyborgEndoskeleton
     - LeftArmBorg
     - RightArmBorg
@@ -447,6 +449,7 @@
     - BorgModuleArtifact
     - BorgModuleAnomaly
     - BorgModuleGardening
+    - BorgModuleHarvesting
     - BorgModuleMusique
     - BorgModuleLiteracy
     - BorgModuleClowning
